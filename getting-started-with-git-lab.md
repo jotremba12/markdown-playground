@@ -70,6 +70,7 @@ The three symbols that would need to be a dash, a star, or a plus sign (-, *, +)
 
 **Format the following text into a footnote:**  
 
-Alex Wingate went to William and Mary[^1]. [^1]: [William and Mary](https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693.  
+Alex Wingate went to William and Mary [^1]. 
+[^1]: [William and Mary](https://www.wm.edu/) is a university in Williamsburg, VA founded in 1693.  
 
 Bonus: make “William and Mary” a hyperlink to W&M’s website.
